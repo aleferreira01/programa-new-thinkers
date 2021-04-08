@@ -1,6 +1,6 @@
 <?php
 
-    require 'Cozinha.php';
+    require 'classes/Cozinha.php';
 
     $mineira = new Cozinha();
     
